@@ -39,7 +39,7 @@ int main() {
 	double sumj= abs(0.5 * j);
 	
      
-     if (sum=sumi+sumj)
+     if (sum == sumi+sumj)
      {
      	cout<<"The point lies inside or on the parallelogram \n";
 	 }
